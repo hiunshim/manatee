@@ -19,3 +19,5 @@ import "github.com/manatee-project/manatee/app/dcr_api/biz/dal/db"
 func Init() {
 	db.Init()
 }
+
+
